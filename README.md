@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering AND Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sumit-raghav-96](https://github.com/sumit-raghav-96)
+- 👨‍💻 All of my projects are available at [https://github.com/sumit-raghav-96](https://github.com/sumit-raghav-06)
 
 - 📫 How to reach me **sumiraghav0106@gmail.com**
 
