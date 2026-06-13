@@ -12,13 +12,14 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **Data Engineering AND Data Structures & Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/sumit-raghav-06](https://github.com/sumit-raghav-06)
-- 📫 How to reach me: **sumiraghav0106@gmail.com**
+- 📫 How to reach me: [sumiraghav0106@gmail.com](mailto:sumiraghav0106@gmail.com)
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://leetcode.com/sumit-raghav---" target="blank">
+  <a href="https://www.leetcode.com/sumit-raghav---" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/sumitraghav06" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
@@ -27,19 +28,8 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;" />
-</p>
+
+![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)&nbsp;&nbsp;&nbsp;&nbsp;![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)&nbsp;&nbsp;&nbsp;&nbsp;![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)&nbsp;&nbsp;&nbsp;&nbsp;![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)&nbsp;&nbsp;&nbsp;&nbsp;![pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)&nbsp;&nbsp;&nbsp;&nbsp;![scikit_learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)&nbsp;&nbsp;&nbsp;&nbsp;![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)&nbsp;&nbsp;&nbsp;&nbsp;![gcp](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)&nbsp;&nbsp;&nbsp;&nbsp;![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
 
 ---
 
@@ -54,7 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top" style="padding-top: 10px;">
+    <td colspan="2" align="center" valign="top" style="padding-top: 15px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-raghav-06&theme=dark" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
