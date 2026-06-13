@@ -15,16 +15,23 @@
 - 📫 How to reach me: [sumiraghav0106@gmail.com](mailto:sumiraghav0106@gmail.com)
 
 ### 🤝 Connect with me:
-<p align="left">
-  <a href="https://leetcode.com/sumit-raghav---" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sumitraghav06" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-</p>
 
----
+<table align="left" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="padding-right: 20px;">
+      <a href="https://www.leetcode.com/sumit-raghav---" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/sumitraghav06" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="both" />
 
 ### 🛠️ Languages and Tools:
 
