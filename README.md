@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/sumit-raghav-06">
-    <img src="https://github-profile-trophy.vercel.app/?username=sumit-raghav-06&theme=radical" alt="sumit-raghav-06" />
   </a>
 </p>
 
